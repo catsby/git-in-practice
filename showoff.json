@@ -1,1 +1,9 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{ "name": "Git in Practice", 
+  "sections": [ 
+    {"section":"intro"},
+    {"section":"branch_track_stage"},
+    {"section":"collaborating"},
+    {"section":"workflows"},
+    {"section":"end"} 
+  ]
+}
